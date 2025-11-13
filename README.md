@@ -20,6 +20,3 @@ Hi, I’m Abdullah, a passionate Penetration Tester from Egypt 🇪🇬<br>I spe
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/varmoth) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
